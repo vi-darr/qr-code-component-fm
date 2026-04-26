@@ -47,3 +47,15 @@ p {
     font-size: 15px;
     font-weight: 400;
 }
+
+.attribution {
+    background: white;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
+
+.attribution a {
+    text-decoration: none;
+}
